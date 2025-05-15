@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="frmPrintcs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LoginForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Model\frmCategoryAdd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Model\frmCustomerAdd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Model\frmProductAdd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Model\frmPurchaseAdd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Model\frmSaleAdd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Model\ucProduct.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="View\frmDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\frmPurchaseView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Model\frmSupplierAdd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Model\frmUserAdd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Sample.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SampleAdd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SampleView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\frmCategoryView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\frmCustomerView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\frmProductView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\frmSaleView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\frmSupplierView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\frmUserView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Update="LoginForm.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+</Project>

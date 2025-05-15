@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vural\\source\\repos\\InventoryPosSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DC2BCE3F-BBE2-405E-9FDF-F447ADBE411C}|InventoryPosSystem.csproj|c:\\users\\vural\\source\\repos\\inventorypossystem\\view\\frmuserview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DC2BCE3F-BBE2-405E-9FDF-F447ADBE411C}|InventoryPosSystem.csproj|solutionrelative:view\\frmuserview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC2BCE3F-BBE2-405E-9FDF-F447ADBE411C}|InventoryPosSystem.csproj|c:\\users\\vural\\source\\repos\\inventorypossystem\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DC2BCE3F-BBE2-405E-9FDF-F447ADBE411C}|InventoryPosSystem.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC2BCE3F-BBE2-405E-9FDF-F447ADBE411C}|InventoryPosSystem.csproj|c:\\users\\vural\\source\\repos\\inventorypossystem\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC2BCE3F-BBE2-405E-9FDF-F447ADBE411C}|InventoryPosSystem.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmUserView.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\vural\\source\\repos\\InventoryPosSystem\\View\\frmUserView.cs",
+              "RelativeDocumentMoniker": "View\\frmUserView.cs",
+              "ToolTip": "C:\\Users\\vural\\source\\repos\\InventoryPosSystem\\View\\frmUserView.cs [Tasar\u0131m]",
+              "RelativeToolTip": "View\\frmUserView.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T17:19:33.023Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\vural\\source\\repos\\InventoryPosSystem\\MainForm.cs",
+              "RelativeDocumentMoniker": "MainForm.cs",
+              "ToolTip": "C:\\Users\\vural\\source\\repos\\InventoryPosSystem\\MainForm.cs",
+              "RelativeToolTip": "MainForm.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAqwDQAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T17:12:54.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainForm.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\vural\\source\\repos\\InventoryPosSystem\\MainForm.cs",
+              "RelativeDocumentMoniker": "MainForm.cs",
+              "ToolTip": "C:\\Users\\vural\\source\\repos\\InventoryPosSystem\\MainForm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "MainForm.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T17:12:24.741Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
